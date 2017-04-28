@@ -1,0 +1,3 @@
+WaitNahi is Java project. We are using spring+jpa+spring_security+jwt token based authentication and authorization.
+This is web project which work with tokens for authentication and authorization and there is no http session used.
+For every http we send token with http header for authenticate user.
